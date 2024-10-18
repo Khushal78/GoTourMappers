@@ -1,0 +1,274 @@
+[33mcommit 4cc3862c9baf39cb9652ecfba32ec3f993bf21fa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Thu Jun 13 02:26:34 2024 +0530
+
+    added hotel filter feature search feature
+
+[33mcommit 5a43bb10aa0f80fcda2a537fd1913590fc27d756[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Thu Jun 6 15:54:37 2024 +0530
+
+    e2etests and features
+
+[33mcommit e927452caea526035f2624f3b3964da75c5acd2d[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Thu Jun 6 12:59:09 2024 +0530
+
+    hello
+
+[33mcommit 60b80c185eb3af48fd54ef8184570e1cef3e09f1[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Thu Jun 6 12:56:36 2024 +0530
+
+    myhotelsview
+
+[33mcommit 5c9765e9567981cf39ccea6071c9c2736ad6b836[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Thu May 30 18:28:21 2024 +0530
+
+    kbv
+
+[33mcommit 4f81bb5df5464c89ff907099263c47051786d025[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Thu May 30 18:13:39 2024 +0530
+
+    kingpin
+
+[33mcommit d68db77cc0422efb6b018378138a960f03d6df18[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Thu May 30 18:09:38 2024 +0530
+
+    hellopj
+
+[33mcommit 58104c93d43c34c16ebf28cc13a6e84e626c8bbf[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Thu May 30 17:49:56 2024 +0530
+
+    local
+
+[33mcommit 3677e4bca99e2abb39d95f1fe0b850fec72ae968[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Thu May 30 17:48:52 2024 +0530
+
+    kk
+
+[33mcommit 435e9b0e7fe2d979b6a8d5cb6c746d5f45f54f2c[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Thu May 30 17:42:10 2024 +0530
+
+    kk
+
+[33mcommit 1b5c4f0e71436381f7c37686f457e48fbb90c602[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Thu May 30 17:20:30 2024 +0530
+
+    lop
+
+[33mcommit 7cdda41a85e9bd21a6010e7ca5128c56476714cd[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Thu May 30 17:18:13 2024 +0530
+
+    lop
+
+[33mcommit 056efa59a2a2296a0dad7ec1cc1fee182d6c5b60[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Thu May 30 16:57:04 2024 +0530
+
+    lop
+
+[33mcommit 2a11170a1366b80722556600588f683b99da545d[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Thu May 30 16:51:53 2024 +0530
+
+    delete
+
+[33mcommit b5dbfee58705346220caf8ad8d6b6e71d659a332[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Thu May 30 16:49:57 2024 +0530
+
+    abc
+
+[33mcommit c487af6d7f0fba017fb5fd1efd047654e31b2203[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Thu May 30 16:41:37 2024 +0530
+
+    jik
+
+[33mcommit 56131892b35812b2831755c711b7a62df2a08eec[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Thu May 30 16:15:09 2024 +0530
+
+    g
+
+[33mcommit e189a7e4154bafa93416557bf603fff64bfaedc1[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Thu May 30 12:41:36 2024 +0530
+
+    Yoyo
+
+[33mcommit 96fdac4e853e63f0068d2e0da9a11f21504d7a09[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Thu May 30 12:31:34 2024 +0530
+
+    multer
+
+[33mcommit c35a986c7ee601cbe3fce9a810cd1ab490c8b98c[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Thu May 30 12:21:00 2024 +0530
+
+    abc
+
+[33mcommit e2ae5b31cd8af299cc7ba3471a15dcc0bf964b6e[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Thu May 30 12:05:47 2024 +0530
+
+    cloudinary.d.ts
+
+[33mcommit 9f7f344afa6dfb6234c86c588e9844a00b7b2025[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Thu May 30 12:01:55 2024 +0530
+
+    modified git
+
+[33mcommit 3d82123874b0c147949e1bd509caae45c4aea188[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Wed May 29 20:52:47 2024 +0530
+
+    hello
+
+[33mcommit a3dd4faf13e1d6a2425b03cd3b020a8dce9c647a[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Wed May 29 20:26:54 2024 +0530
+
+    Changes to be done in index.ts and my-hotels.ts
+
+[33mcommit e0d8a9421ae85efc9d936e3ef53dcf1745af5ac6[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Wed May 29 20:14:09 2024 +0530
+
+    added feature to add hotel,and e2e test for feature
+
+[33mcommit c532da193777bccb7ca131362a3ff61cd1295300[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Wed May 29 20:13:24 2024 +0530
+
+    added feature to add hotel,and e2e test for feature
+
+[33mcommit cc1863cce05421a57688c62d962771abc1d4a0c0[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Wed May 29 19:35:07 2024 +0530
+
+    added feature to add hotel,and e2e test for feature
+
+[33mcommit bb387fb434cc1f22c55049e7dd4990b71f75ed37[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Wed May 29 17:04:22 2024 +0530
+
+    added feature to add hotel,and e2e test for feature
+
+[33mcommit 8909337264b186d6a1c955641e99e26dfe0ad3fe[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Wed May 29 16:57:02 2024 +0530
+
+    added feature to add hotel,and e2e test for feature
+
+[33mcommit 5889a8038a32cde2d01f71b2d8dd8257c9ee048a[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Wed May 29 16:48:01 2024 +0530
+
+    added feature to add hotel,and e2e test for feature
+
+[33mcommit a738beb31646a085d3d906dd95ea629b264a3305[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Wed May 29 16:37:28 2024 +0530
+
+    added feature to add hotel,and e2e test for feature
+
+[33mcommit f9e24e90123414637c6327403d590f690611eefe[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Wed May 29 16:30:10 2024 +0530
+
+    added feature to add hotel,and e2e test for feature
+
+[33mcommit 0920bf53ef17890888107632b9d84c2015ef0fad[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Tue May 28 23:28:27 2024 +0530
+
+    added feature to add hotel,and e2e test for feature
+
+[33mcommit 5cb0b18b031e0b80c826f4485ae1eb2f43d2a16b[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Tue May 28 23:25:00 2024 +0530
+
+    added feature to add hotel,and e2e test for feature
+
+[33mcommit 744a943c17aa47e73434447336cf60098b33eab0[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Tue May 28 23:23:13 2024 +0530
+
+    added feature to add hotel,and e2e test for feature
+
+[33mcommit 18fb41211489cbc52310c3d1f6b763c298624174[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Tue May 28 20:55:03 2024 +0530
+
+    added feature to add hotel,and e2e test for feature
+
+[33mcommit df8e36f8464cfca91945f648141a290301cad4f0[m
+Merge: 325bee0 a6dee3d
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Tue May 28 20:43:23 2024 +0530
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit 325bee013560173aaaefb64174af4651bacd29f9[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Tue May 28 20:35:44 2024 +0530
+
+    added feature to add hotel,and e2e test for feature
+
+[33mcommit a6dee3deba71685469dfca8c6fa68a27af037688[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Sat May 25 09:22:58 2024 +0530
+
+    Update .env
+
+[33mcommit 9016e1312f48577471869611a86cc4aec4e6881e[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Sat May 25 03:27:11 2024 +0530
+
+    Update index.ts
+
+[33mcommit 79220ef8c3c5c81d879be0703405a024abe5f146[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Sat May 25 03:25:24 2024 +0530
+
+    Update vite.config.ts
+
+[33mcommit 7cd314398c1e5e7dcfe03c66a18e04ba7a3e891d[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Sat May 25 03:24:39 2024 +0530
+
+    Update index.ts
+
+[33mcommit 2b505c0bbd35ec00f4b287592f8ce714256cb259[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Sat May 25 03:09:36 2024 +0530
+
+    Update index.ts
+
+[33mcommit 5bc727767dd851a18f97d9ad17b6d7a2a26ec9ed[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Sat May 25 03:08:32 2024 +0530
+
+    Update vite.config.ts
+
+[33mcommit 92dffd20e2e0a891afb52b410c8c872d54e0664c[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+Date:   Sat May 25 03:04:29 2024 +0530
+
+    Update vite.config.ts
+
+[33mcommit 7a346c3b81a8fc8cac50719c5c179f8237aefc96[m
+Author: Khushal Jain <khushal.jce21@sot.pdpu.ac.in>
+D
