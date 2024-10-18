@@ -1,12 +1,12 @@
 #root {
   max-width: 100%;
-  margin: 0; 
-  padding: 0;
+  margin: 0;
+  padding: 0rem;
 }
 
 @media (max-width: 768px) {
   .container {
-    padding: 0 5px; 
+    padding: 0 10px;
   }
   
   .flex {
@@ -47,27 +47,4 @@
   .tracking-tight {
     letter-spacing: normal;
   }
-} /* The media query is properly closed here */
-
-/* Additional classes below */
-.flex {
-  display: flex;
-  flex-wrap: wrap; 
-  justify-content: center; 
-}
-
-.image-grid {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between; 
-  padding: 0;
-  margin: 0 auto;
-  gap: 10px;
-}
-
-.image-item img {
-  width: 100%; /* Ensure image takes full width of container */
-  height: auto; /* Maintain aspect ratio */
-  margin: 0;
-  padding: 0;
 }
