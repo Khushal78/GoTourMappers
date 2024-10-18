@@ -8,13 +8,12 @@
   .container {
     padding: 0 5px; 
   }
-}
   
   .flex {
-  display: flex;
-  flex-wrap: wrap; 
-  justify-content: center; 
-}
+    flex-direction: column;
+    text-align: center;
+  }
+
   .space-x-2 {
     margin: 10px 0;
   }
@@ -48,6 +47,13 @@
   .tracking-tight {
     letter-spacing: normal;
   }
+} /* The media query is properly closed here */
+
+/* Additional classes below */
+.flex {
+  display: flex;
+  flex-wrap: wrap; 
+  justify-content: center; 
 }
 
 .image-grid {
@@ -65,5 +71,3 @@
   margin: 0;
   padding: 0;
 }
-
-
