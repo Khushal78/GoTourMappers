@@ -1,19 +1,20 @@
 #root {
   max-width: 100%;
-  margin: -10px;
-  padding: 0rem;
+  margin: 0; 
+  padding: 0;
 }
 
 @media (max-width: 768px) {
   .container {
-    padding: 0 10px;
+    padding: 0 5px; 
   }
+}
   
   .flex {
-    flex-direction: column;
-    text-align: center;
-  }
-
+  display: flex;
+  flex-wrap: wrap; 
+  justify-content: center; 
+}
   .space-x-2 {
     margin: 10px 0;
   }
@@ -48,3 +49,21 @@
     letter-spacing: normal;
   }
 }
+
+.image-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; 
+  padding: 0;
+  margin: 0 auto;
+  gap: 10px;
+}
+
+.image-item img {
+  width: 100%; /* Ensure image takes full width of container */
+  height: auto; /* Maintain aspect ratio */
+  margin: 0;
+  padding: 0;
+}
+
+
